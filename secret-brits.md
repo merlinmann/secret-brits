@@ -24,7 +24,7 @@ International actors it'd be easy to assume are American.
 | Toni Collette     | Muriel's Wedding | Sydney, New South Wales, Australia  |
 | David Harewood    | Homeland         | Small Heath, Birmingham, England    |
 | Blake Ritson      | The Gilded Age   | London, England                     |
-| Jessie Buckley    | Fargo            | Killarney, County Kerry, Ireland    |
+| Jessie Buckley    | Fargo s04            | Killarney, County Kerry, Ireland    |
 | Gerran Howell     | The Pitt         | Barry, Wales, UK                    |
 
 ### Fake Secret Brits
