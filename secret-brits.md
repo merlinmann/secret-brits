@@ -27,6 +27,8 @@ International actors it'd be easy to assume are American.
 | Jessie Buckley    | Fargo s04            | Killarney, County Kerry, Ireland    |
 | Gerran Howell     | The Pitt         | Barry, Wales, UK                    |
 | Aaron Pierre     | Lanterns         | London, England                    |
+| Kate O'Flynn      | Widow's Bay      | [Bury, England](https://www.televisionacademy.com/bios/kate-oflynn) |
+
 
 ### Fake Secret Brits
 
