@@ -29,6 +29,7 @@ International actors it'd be easy to assume are American.
 | Aaron Pierre     | Lanterns         | [London, England](https://www.standard.co.uk/culture/tvfilm/aaron-pierre-the-underground-railroad-interview-b933830.html) |
 | Kate O'Flynn      | Widow's Bay      | [Bury, England](https://www.televisionacademy.com/bios/kate-oflynn) |
 | Rupert Friend     | Homeland         | [Cambridge, England](https://rupertfriendfandotcom.wordpress.com/2017/10/21/the-times-interview-with-rupert-friend/)[^friend-birthplace] |
+| Michael Fassbender[^fassbender-classification] | Band of Brothers; Steve Jobs | [Heidelberg, Germany](https://www.irishtimes.com/culture/film/life-in-the-fassbender-lane-1.596223) (raised in Killarney, Ireland) |
 
 
 ### Fake Secret Brits
@@ -78,5 +79,7 @@ With the actual accent and all, I can't even.
 [^camp-birthplace]: [IBDB](https://www.ibdb.com/broadway-cast-staff/bill-camp-70319) identifies Massachusetts but does not name a town.
 
 [^friend-birthplace]: A [2017 Times interview reproduced on a fan site](https://rupertfriendfandotcom.wordpress.com/2017/10/21/the-times-interview-with-rupert-friend/) gives Cambridge as his birthplace and describes a later move to Oxfordshire. The [Television Academy](https://www.televisionacademy.com/bios/rupert-friend) lists Oxfordshire. Cambridge is used with this conflict noted; the original Times page was unavailable during verification.
+
+[^fassbender-classification]: Born in Germany to a German father and a Northern Irish mother, raised in Killarney from age two: several opportunities for surprise, but still a Secret Brit. His American roles supply the initial mistaken assumption; discovering the German–Irish background supplies the reveal. Jessie Buckley already establishes that Irish actors belong here. Fake Secret Brits such as Bill Camp only seem likely to have a hidden British identity; Gillian Anderson adds the further complication of an American birthplace and an actual English accent. Fassbender's extra country does not add another reversal. The bit counts reversals of expectation, not countries. Classification note by Codex.
 
 Birthplace sources checked by Codex on 21 September 2026. [Sources and notes](birthplace-review.md).
