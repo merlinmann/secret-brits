@@ -64,7 +64,7 @@ With the actual accent and all, I can't even.
 
 | Actor | Birthplace | Date of Birth | I know from | Familial Relationship |
 | :--- | :--- | :--- | :--- | :--- |
-| Stellan Skarsgård | [Gothenburg, Sweden](https://the-talks.com/interview/stellan-skarsgard/) | 1951-06-13 | Dr. Selvig — *The Avengers* | Father of Alexander & Bill Skarsgård |
+| Stellan Skarsgård | [Gothenburg, Sweden](https://the-talks.com/interview/stellan-skarsgard/) | 1951-06-13 | Dr. Selvig — *The Avengers*; Luthen Rael — *Andor* | Father of Alexander & Bill Skarsgård |
 | Alexander Skarsgård | [Stockholm, Sweden](https://www.televisionacademy.com/bios/alexander-skarsgard) | 1976-08-25 | Lukas — *Succession*; Rainer Wolz — *Documentary Now!*, “Soldier of Illusion” (Parts 1–2) | Son of Stellan, Brother of Bill |
 | Bill Skarsgård | [Stockholm, Sweden](https://www.interviewmagazine.com/film/bill-skarsgard) | 1990-08-09 | *It*; *Nosferatu* | Son of Stellan, Brother of Alexander |
 | Lars Mikkelsen | [Gladsaxe, Denmark](https://www.danishoriginals.com/lars-mikkelsen) | 1964-05-06 | Charles Augustus Magnussen — *Sherlock*, “His Last Vow” (S03E03) | Older brother of Mads Mikkelsen |
