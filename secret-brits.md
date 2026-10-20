@@ -66,7 +66,7 @@ With the actual accent and all, I can't even.
 | :-------------------- | :--------------- | :------------ | :---------------------------------------------------- | :----------------------------------- |
 | Stellan Skarsgård     | [Gothenburg, Sweden](https://the-talks.com/interview/stellan-skarsgard/) | 1951-06-13    | Dr. Selvig in 'The Avengers'   | Father of Alexander & Bill Skarsgård |
 | Alexander Skarsgård   | [Stockholm, Sweden](https://www.televisionacademy.com/bios/alexander-skarsgard) | 1976-08-25    | Lukas in 'Succession'                         | Son of Stellan, Brother of Bill      |
-| Bill Skarsgård        | [Stockholm, Sweden](https://www.interviewmagazine.com/film/bill-skarsgard) | 1990-08-09    | Pennywise in 'It' (2017); 'It Chapter Two' (2019)     | Son of Stellan, Brother of Alexander |
+| Bill Skarsgård        | [Stockholm, Sweden](https://www.interviewmagazine.com/film/bill-skarsgard) | 1990-08-09    | 'It' and 'Nosferatu'     | Son of Stellan, Brother of Alexander |
 | Lars Mikkelsen        | [Gladsaxe, Denmark](https://www.danishoriginals.com/lars-mikkelsen) | 1964-05-06    | Charles Augustus Magnussen in 'Sherlock': 'His Last Vow' (S03E03)                      | Older brother of Mads Mikkelsen      |
 | Mads Mikkelsen        | [Østerbro, Copenhagen, Denmark](https://the-talks.com/interview/mads-mikkelsen/) | 1965-11-22    | Hannibal Lecter in 'Hannibal'                         | Brother of Lars Mikkelsen            |
 | Michael Nyqvist       | [Stockholm, Sweden](https://www.filminstitutet.se/sv/nyheter/2017/michael_nyqvist/) | 1960-11-08    | Mikael Blomkvist in 'The Girl with the Dragon Tattoo' |                                      |
