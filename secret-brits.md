@@ -38,14 +38,14 @@ American-ish actors you wouldn't be surprised to learn are actually British.
 
 | Actor | Place of Birth | I know from |
 | :--- | :--- | :--- |
-| Mike Faist | [Gahanna, Ohio, United States](https://www.ibdb.com/broadway-cast-staff/mike-faist-491590) | *West Side Story* (2021) — Riff |
-| Ato Essandoh | [Schenectady, New York, United States](https://oregonnews.uoregon.edu/lccn/sn85042482/2013-07-24/ed-1/seq-10.pdf) | *The Diplomat* — Stuart |
-| Chadwick Boseman | [Anderson, South Carolina, United States](https://naacp.org/resources/honoring-life-and-legacy-chadwick-boseman) | *Black Panther* — T’Challa / Black Panther |
-| Victor Garber | [London, Ontario, Canada](https://www.canadaswalkoffame.com/inductees/victor-garber/) | *Alias* — Jack Bristow |
-| Sophie Thatcher | [Chicago, Illinois, United States](https://www.elle.com/culture/movies-tv/a60637143/sophie-thatcher-hollywood-rising-interview-2024/) | *Yellowjackets* — Teen Natalie |
-| Ashley Zukerman | [Santa Monica, California, United States](https://www.televisionacademy.com/features/news/mix/proof-positive) | *Succession* — Nate Sofrelli |
-| Julia Garner | [Bronx, New York, United States](https://www.vanityfair.com/hollywood/2020/05/ozark-emmy-winner-julia-garner-talks-pandemic-pajamas-and-lasagna) | *Ozark* — Ruth Langmore |
-| Bill Camp | [Massachusetts, United States](https://www.ibdb.com/broadway-cast-staff/bill-camp-70319)[^camp-birthplace] | *The Leftovers* — David Burton |
+| Mike Faist | [Gahanna, Ohio, United States](https://www.ibdb.com/broadway-cast-staff/mike-faist-491590) | Riff — *West Side Story* (2021) |
+| Ato Essandoh | [Schenectady, New York, United States](https://oregonnews.uoregon.edu/lccn/sn85042482/2013-07-24/ed-1/seq-10.pdf) | Stuart — *The Diplomat* |
+| Chadwick Boseman | [Anderson, South Carolina, United States](https://naacp.org/resources/honoring-life-and-legacy-chadwick-boseman) | T’Challa / Black Panther — *Black Panther* |
+| Victor Garber | [London, Ontario, Canada](https://www.canadaswalkoffame.com/inductees/victor-garber/) | Jack Bristow — *Alias* |
+| Sophie Thatcher | [Chicago, Illinois, United States](https://www.elle.com/culture/movies-tv/a60637143/sophie-thatcher-hollywood-rising-interview-2024/) | Teen Natalie — *Yellowjackets* |
+| Ashley Zukerman | [Santa Monica, California, United States](https://www.televisionacademy.com/features/news/mix/proof-positive) | Nate Sofrelli — *Succession* |
+| Julia Garner | [Bronx, New York, United States](https://www.vanityfair.com/hollywood/2020/05/ozark-emmy-winner-julia-garner-talks-pandemic-pajamas-and-lasagna) | Ruth Langmore — *Ozark* |
+| Bill Camp | [Massachusetts, United States](https://www.ibdb.com/broadway-cast-staff/bill-camp-70319)[^camp-birthplace] | David Burton — *The Leftovers* |
 
 
 ### Double Fake Secret Brits
@@ -64,13 +64,13 @@ With the actual accent and all, I can't even.
 
 | Actor | Birthplace | Date of Birth | I know from | Familial Relationship |
 | :--- | :--- | :--- | :--- | :--- |
-| Stellan Skarsgård | [Gothenburg, Sweden](https://the-talks.com/interview/stellan-skarsgard/) | 1951-06-13 | *The Avengers* — Dr. Selvig | Father of Alexander & Bill Skarsgård |
-| Alexander Skarsgård | [Stockholm, Sweden](https://www.televisionacademy.com/bios/alexander-skarsgard) | 1976-08-25 | *Succession* — Lukas | Son of Stellan, Brother of Bill |
+| Stellan Skarsgård | [Gothenburg, Sweden](https://the-talks.com/interview/stellan-skarsgard/) | 1951-06-13 | Dr. Selvig — *The Avengers* | Father of Alexander & Bill Skarsgård |
+| Alexander Skarsgård | [Stockholm, Sweden](https://www.televisionacademy.com/bios/alexander-skarsgard) | 1976-08-25 | Lukas — *Succession* | Son of Stellan, Brother of Bill |
 | Bill Skarsgård | [Stockholm, Sweden](https://www.interviewmagazine.com/film/bill-skarsgard) | 1990-08-09 | *It*; *Nosferatu* | Son of Stellan, Brother of Alexander |
-| Lars Mikkelsen | [Gladsaxe, Denmark](https://www.danishoriginals.com/lars-mikkelsen) | 1964-05-06 | *Sherlock*, “His Last Vow” (S03E03) — Charles Augustus Magnussen | Older brother of Mads Mikkelsen |
-| Mads Mikkelsen | [Østerbro, Copenhagen, Denmark](https://the-talks.com/interview/mads-mikkelsen/) | 1965-11-22 | *Hannibal* — Hannibal Lecter | Brother of Lars Mikkelsen |
-| Michael Nyqvist | [Stockholm, Sweden](https://www.filminstitutet.se/sv/nyheter/2017/michael_nyqvist/) | 1960-11-08 | *The Girl with the Dragon Tattoo* — Mikael Blomkvist |  |
-| Nikolaj Coster-Waldau | [Rudkøbing, Denmark](https://www.theguardian.com/culture/2015/mar/29/nikolaj-coster-waldau-jamie-lannister-tina-fey-louis-ck) | 1970-07-27 | *Game of Thrones* — Jaime Lannister |  |
+| Lars Mikkelsen | [Gladsaxe, Denmark](https://www.danishoriginals.com/lars-mikkelsen) | 1964-05-06 | Charles Augustus Magnussen — *Sherlock*, “His Last Vow” (S03E03) | Older brother of Mads Mikkelsen |
+| Mads Mikkelsen | [Østerbro, Copenhagen, Denmark](https://the-talks.com/interview/mads-mikkelsen/) | 1965-11-22 | Hannibal Lecter — *Hannibal* | Brother of Lars Mikkelsen |
+| Michael Nyqvist | [Stockholm, Sweden](https://www.filminstitutet.se/sv/nyheter/2017/michael_nyqvist/) | 1960-11-08 | Mikael Blomkvist — *The Girl with the Dragon Tattoo* |  |
+| Nikolaj Coster-Waldau | [Rudkøbing, Denmark](https://www.theguardian.com/culture/2015/mar/29/nikolaj-coster-waldau-jamie-lannister-tina-fey-louis-ck) | 1970-07-27 | Jaime Lannister — *Game of Thrones* |  |
 
 [^starr-birthplace]: The [Television Academy](https://www.televisionacademy.com/bios/antony-starr) lists Wellington. [TV Insider](https://www.tvinsider.com/people/antony-starr/) lists Auckland in its heading and Wellington in its biography.
 
